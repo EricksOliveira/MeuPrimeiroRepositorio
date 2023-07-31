@@ -1,3 +1,5 @@
 Nome: Ericks Oliveira
 Idade: 27
 Data de Nascimento: 10/07/1996
+
+Rotina: Estudar Programação!
